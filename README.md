@@ -1,6 +1,7 @@
 # ServerSOAP
 
 Hi, this is a project created toi learn more about WebServices and SOAP protocol. 
+
 Project Functionallity:
 - Get a SOAP command with 3 parameters (ID, name, CardNumber);
 - Send the XML via ISS localhost to the Code;
